@@ -7,10 +7,10 @@ Simon is a fun and challenging memory game where players have to follow a sequen
 
 # How to Play
 <ul>
-Start: Click on the "A" button to initiate the game.
-Game Sequence: Pay attention to the sequence of colors that light up.
-Player's Turn: Click on the colors in the same sequence they were presented.
-Scoring: The game keeps track of your successful sequences and displays your score.
+<li>Start: Click on the "A" button to initiate the game.</li>
+<li>Game Sequence: Pay attention to the sequence of colors that light up.</li>
+<li>Player's Turn: Click on the colors in the same sequence they were presented.</li>
+<li>Scoring: The game keeps track of your successful sequences and displays your score.</li>
 </ul>
 # Technologies Used
 . HTML: Structuring the content of the game.
