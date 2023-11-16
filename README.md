@@ -12,7 +12,10 @@ Simon is a fun and challenging memory game where players have to follow a sequen
 <li>Player's Turn: Click on the colors in the same sequence they were presented.</li>
 <li>Scoring: The game keeps track of your successful sequences and displays your score.</li>
 </ul>
+
 # Technologies Used
-. HTML: Structuring the content of the game.
-. CSS: Styling elements for an engaging user interface.
-. JavaScript & jQuery: Implementing game logic, user interactions, and dynamics.
+<ul>
+<li>HTML: Structuring the content of the game.</li>
+<li>CSS: Styling elements for an engaging user interface.</li>
+<li>JavaScript & jQuery: Implementing game logic, user interactions, and dynamics.</li>
+</ul>
