@@ -19,3 +19,12 @@ Simon is a fun and challenging memory game where players have to follow a sequen
 <li>CSS: Styling elements for an engaging user interface.</li>
 <li>JavaScript & jQuery: Implementing game logic, user interactions, and dynamics.</li>
 </ul>
+
+# Demo
+Check out the live demo of the Simon Game here.
+
+# Contributions
+Contributions are welcome! If you'd like to improve the game or add new features, feel free to fork the repository and create a pull request.
+
+# Credits
+This project was created by <b>Syed Salman Ali Zaidi</b>.
