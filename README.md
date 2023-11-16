@@ -28,3 +28,6 @@ Contributions are welcome! If you'd like to improve the game or add new features
 
 # Credits
 This project was created by <b>Syed Salman Ali Zaidi</b>.
+
+![image](https://github.com/SyedSalman007/Simon_Game/assets/97502374/212c7c92-deb7-41c6-8a35-ddba92e7c54a)
+
