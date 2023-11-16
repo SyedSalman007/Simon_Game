@@ -3,7 +3,7 @@ Simon Game
 Welcome to the Simon Game, a classic memory game implemented using HTML, CSS, JavaScript, and jQuery!
 
 # About the Game
-Simon is a fun and challenging memory game where players have to follow a sequence of lights and sounds. The game presents a series of color patterns that the player must mimic by clicking on the corresponding colors. Each successful sequence increases in length, testing and enhancing the player's memory skills.
+Simon is a fun and challenging memory game where players have to follow a sequence of lights and sounds. The game presents a series of color patterns that the player must mimic by clicking on the corresponding colors. Each successful sequence increases in length, testing and enhancing the player's memory skills. Moreover, this game is designed for <b>computer users</b>.
 
 # How to Play
 <ul>
