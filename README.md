@@ -21,7 +21,7 @@ Simon is a fun and challenging memory game where players have to follow a sequen
 </ul>
 
 # Demo
-Check out the live demo of the Simon Game here.
+Check out the live demo of the Simon Game <a href="https://syedsalman007.github.io/Simon_Game/">here</a>.
 
 # Contributions
 Contributions are welcome! If you'd like to improve the game or add new features, feel free to fork the repository and create a pull request.
